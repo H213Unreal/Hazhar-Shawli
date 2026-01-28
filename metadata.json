@@ -1,0 +1,7 @@
+{
+  "name": "Copy of H213-Ai",
+  "description": "An AI-powered application that uses Google's Gemini models to edit images, generate speech, and transcribe audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
