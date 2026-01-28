@@ -4,7 +4,7 @@ export type Language = 'en' | 'fa' | 'ar' | 'ku';
 export const translations = {
   en: {
     dir: 'ltr',
-    title: 'AI Photo Studio',
+    title: 'Hazhar-Shawli-Bedarooni',
     subtitle: 'Create and transform with AI. Image editing, TTS, and Face Swap.',
     tabs: {
       faceSwap: 'Face Swap',
@@ -68,7 +68,7 @@ export const translations = {
   },
   fa: {
     dir: 'rtl',
-    title: 'استودیو هوشمند H213',
+    title: 'Hazhar-Shawli-Bedarooni',
     subtitle: 'با قدرت هوش مصنوعی خلق کنید. ویرایش تصویر، تبدیل متن به گفتار و تعویض چهره.',
     tabs: {
       faceSwap: 'تعویض چهره',
@@ -132,7 +132,7 @@ export const translations = {
   },
   ar: {
     dir: 'rtl',
-    title: 'استوديو الذكاء الاصطناعي',
+    title: 'Hazhar-Shawli-Bedarooni',
     subtitle: 'أنشئ وحوّل باستخدام الذكاء الاصطناعي. تحرير الصور، تحويل النص إلى كلام، وتبديل الوجوه.',
     tabs: {
       faceSwap: 'تبديل الوجوه',
@@ -196,7 +196,7 @@ export const translations = {
   },
   ku: {
     dir: 'rtl',
-    title: 'ستۆدیۆی زیرەکی دەستکرد',
+    title: 'Hazhar-Shawli-Bedarooni',
     subtitle: 'بە هێزی زیرەکی دەستکرد دروست بکە و بگۆڕە. دەستکاری وێنە و گۆڕینی دەموچاو.',
     tabs: {
       faceSwap: 'گۆڕینی دەموچاو',
